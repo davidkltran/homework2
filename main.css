@@ -22,17 +22,23 @@
 
 .main-column{
     order: 2;
+    padding: 20px 50px;
+    margin: 40px auto 0 auto;
     
 }
 
 .sidebar-one{
     order: 1;
     flex: 3;
+    padding: 20px 50px;
+    margin: 40px auto 0 auto;
 }
 
 .sidebar-two{
     order: 3;
     flex: 3;
+    padding: 20px 50px;
+    margin: 40px auto 0 auto;
      
 }
 
@@ -42,4 +48,5 @@
     padding: 30px 0px;
     display: flex;
     justify-content: center;
+
 }

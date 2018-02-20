@@ -15,24 +15,29 @@
     background-color: #FFF;
     margin: 40px auto 0 auto;
     line-height: 1.65;
-    padding: 20px 50px;
+    padding: 40px 50px;
     
 }
 
 .main-column{
     order: 2;
-    font-style: italic;
+    padding: 20px 50px;
+    margin: 40px auto 0 auto;
     
 }
 
 .sidebar-one{
     order: 1;
     flex: 3;
+    font-style: italic;
+
 }
 
 .sidebar-two{
     order: 3;
     flex: 3;
+    font-style: italic;
+
      
 }
 
