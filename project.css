@@ -5,7 +5,6 @@
     position: fixed;
     top: 0;
 }
-
 .responsive img {
     width: 100%;
     max-width: 100%;
@@ -17,23 +16,6 @@
     line-height: 1.65;
     padding: 20px 50px;
     display: flex;
-
-}
-
-.main-column{
-    order: 2;
-    
-}
-
-.sidebar-one{
-    order: 1;
-    flex: 3;
-}
-
-.sidebar-two{
-    order: 3;
-    flex: 3;
-     
 }
 
 .footer{
