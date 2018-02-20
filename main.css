@@ -1,14 +1,9 @@
 .header{
-    display: flex;
+    width: 100%;
+    background-color: #f8f8f8;
     justify-content: center;
-
-}
-
-.navbar navbar-expand-lg navbar-light bg-light{
-    display: flex;
-    justify-content: center;
-    position: fixed
-    top;
+    position: fixed;
+    top: 0;
 }
 
 .column-layout{ 
