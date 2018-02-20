@@ -6,6 +6,10 @@
     top: 0;
 }
 
+.responsive img {
+    width: 100%;
+    max-width: 100%;
+}
 .column-layout{ 
     max-width: 1300px;
     background-color: #FFF;
@@ -17,18 +21,17 @@
 }
 
 .main-column{
-    flex: 1;
     order: 2;
     
 }
 
 .sidebar-one{
-    flex: 1;
     order: 1;
+    flex: 3;
 }
 
 .sidebar-two{
-    flex: 1;
     order: 3;
+    flex: 3;
      
 }
